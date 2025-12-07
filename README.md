@@ -1,45 +1,42 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://media.giphy.com/media/SA0A5vFffzHP21kzB0/giphy.gif" alt="Header Animation" width="300" style="display: block; margin: 0 auto;">
+<div align="center">
+  <img src="https://media.giphy.com/media/SA0A5vFffzHP21kzB0/giphy.gif" alt="Header Animation" width="320">
+  <h1>Sepehr Bayat</h1>
+  <p><strong>Generalist full-stack developer</strong> building production-ready products end-to-end — fast, clean, and with good vibes.</p>
+  <p>Frontend · Backend · Data · DX · Ops</p>
+  <p>
+    <a href="mailto:sepehrbayat5@gmail.com">Email</a> •
+    <a href="https://www.linkedin.com/sepehrbayat">LinkedIn</a>
+  </p>
 </div>
 
-# Hi there! 👋
+## Quick snapshot
+- Ship-ready engineer who can take ideas from zero to launch across the stack.
+- Product-minded: crisp UX, measurable impact, and pragmatic architecture.
+- Loves vibe-coding sessions, pairing, and leaving codebases cleaner than found.
 
-I'm Sepehr Bayat, a digital marketing strategist, content creator, and consultant dedicated to assisting businesses and entrepreneurs with brand strategy and social media marketing. My passion lies in helping businesses and entrepreneurs thrive in the digital media space.
+## What I do best
+- End-to-end web builds (React/Next.js/TypeScript + Node.js/Python).
+- API design (REST/GraphQL), data modeling (PostgreSQL/Redis/ORMs), and observability.
+- CI/CD, testing (Jest/Playwright), and performance tuning to keep teams fast.
 
-🔭 I'm currently working on:
+## Current focus
+- Building real-world apps in public with tight feedback loops.
+- Modern DX: type-safety, linting, testing, preview environments, clear docs.
+- Realtime features, AI-assisted flows, and thoughtful automation.
 
-- Developing and implementing customized social media and branding strategies for businesses.
-- Staying up-to-date with the latest trends in digital marketing and social media.
-- Collaborating with clients to achieve their growth goals.
+## How I work
+- Small, frequent releases; spike → refine → harden.
+- Pair/mob friendly; music on; logs/metrics always on.
+- Code that reads like docs; PRs that are kind to reviewers.
 
-🌱 I'm currently learning:
+## Toolbox
+- Frontend: React, Next.js, TypeScript, Tailwind, Vite.
+- Backend: Node.js (Express/Nest/Fastify), Python (FastAPI), GraphQL/REST.
+- Data: PostgreSQL, Redis, Prisma/ORMs.
+- Ops: Docker, CI/CD, cloud (AWS/Vercel), testing with Jest/Playwright.
 
-- Advanced digital marketing techniques.
-- Creative content creation strategies.
-- Data analysis to optimize marketing campaigns.
+## Open to
+- Freelance/contract collaborations, open-source contributions, and rapid MVPs.
+- Scaling products, improving developer experience, or just a good vibe-coding sprint.
 
-👯 I'm looking to collaborate on:
-
-- Exciting digital marketing projects.
-- Innovations in social media strategy.
-- Sharing insights and expertise with fellow marketing professionals.
-
-💬 Ask me about:
-
-- Crafting compelling brand stories.
-- Leveraging social media algorithms for maximum impact.
-- Strategies to boost engagement and drive sales.
-
-📫 How to reach me:
-
-Feel free to connect with me on LinkedIn or email me at sepehrbayat5@gmail.com.
-
-😄 Pronouns:
-
-He/Him
-
-⚡ Fun fact:
-
-I'm always on the lookout for the next viral marketing trend, and I enjoy staying ahead of the curve in the ever-evolving world of digital marketing.
-
-Thanks for visiting my GitHub profile. Let's connect and explore the exciting opportunities in the digital marketing landscape together! 🚀
+Whoever lands here should feel both the polish and the energy—let's build something great. 🚀
