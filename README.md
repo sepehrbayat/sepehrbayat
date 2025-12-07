@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/SA0A5vFffzHP21kzB0/giphy.gif" alt="Header Animation" width="320">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXB2bmptYjl5OTB3djRzamdweWRuNWs4YmtjZm03ZjZicWd5Y3prOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Header Animation" width="320">
   <h1>Sepehr Bayat</h1>
   <p><strong>Generalist full-stack developer</strong> building production-ready products end-to-end — fast, clean, and with good vibes.</p>
   <p>Frontend · Backend · Data · DX · Ops</p>
