@@ -1,63 +1,69 @@
-# Grill Me Plus
+# Decision Crucible
 
-**An adaptive, risk-first AI interview skill for turning vague ideas into defensible decisions.**
+**A controlled adversarial environment for decisions.**
 
 Created by [Sepehr Bayat](https://github.com/sepehrbayat).
 
-## What it improves
+Decision Crucible does not “interview” an idea. It decomposes the idea into claims, assigns each claim a burden of proof, attacks the critical assumptions from five directions, runs reversal tests against bias, and ends with a hard verdict:
 
-The original `grill-me` concept is powerful: interrogate an idea through a dependency-aware decision tree instead of jumping into implementation.
+- **Advance**
+- **Probe**
+- **Pivot**
+- **Kill**
 
-Grill Me Plus extends that model with:
+## What makes it different
 
-- three interrogation depths: quick, standard, and deep;
-- risk-first question ordering;
-- explicit fact, assumption, decision, constraint, risk, and experiment tracking;
-- contradiction detection across rounds;
-- cognitive limits for each question round;
-- forced real-world experiments when conversation cannot resolve uncertainty;
-- success metrics and explicit kill criteria;
-- a final decision record with owners and next actions;
-- special attention to product, business, architecture, and vibe-coded projects.
+Decision Crucible uses an original six-chamber method:
+
+1. **Claim Stack** — converts the idea into explicit claims that must be true.
+2. **Burden of Proof** — ranks claims by blast radius, cost of error, irreversibility, and evidence gap.
+3. **Five Attacks** — tests substitution, incentives, friction, scale, and real-world behavior.
+4. **Reversal Tests** — exposes sunk-cost thinking, identity bias, weak positioning, and hidden dependencies.
+5. **Evidence Forge** — turns unknowns into cheap, falsifiable experiments.
+6. **Verdict** — forces a decision with confidence, required proof, next move, and stop condition.
 
 ## Installation
 
-Copy the `SKILL.md` file into your agent's skills directory under a folder named `grill-me-plus`.
-
-Example:
+Copy `SKILL.md` into your agent's skills directory.
 
 ```text
 skills/
-└── grill-me-plus/
+└── decision-crucible/
     └── SKILL.md
 ```
 
-Then invoke it explicitly with a prompt such as:
+Invoke it with prompts such as:
 
 ```text
-Use grill-me-plus in deep mode to stress-test my SaaS idea.
+Run Decision Crucible on my SaaS idea.
 ```
 
-## Example triggers
+```text
+Use Decision Crucible to decide whether we should build this feature.
+```
 
-- “Grill this product idea.”
-- “Try to destroy this plan before I build it.”
-- “Interrogate my architecture decisions.”
-- “Find the assumptions I am ignoring.”
-- “Run a deep grill on this business model.”
+```text
+Pressure-test this architecture and give me an Advance, Probe, Pivot, or Kill verdict.
+```
 
-## Design philosophy
+## Best use cases
 
-Good questioning is not a long checklist. It is a dependency graph.
+- product ideas;
+- startup and business models;
+- feature prioritization;
+- architecture decisions;
+- go-to-market plans;
+- major purchases or strategic choices;
+- projects with high confidence but weak evidence.
 
-A useful interview asks only the decisions that can be answered now, resolves contradictions before expanding, and converts unknowable claims into cheap experiments. The goal is not endless skepticism; it is a decision that survives contact with reality.
+## Philosophy
 
-## Attribution
+Most bad decisions survive because their assumptions are never written down, their proof burden is never assigned, and nobody is forced to issue a verdict.
 
-This project is an expanded derivative inspired by Matt Pocock's MIT-licensed [`grill-me`](https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md) and [`grilling`](https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md) skills.
+Decision Crucible makes the hidden structure visible and applies pressure where being wrong would hurt most.
 
-The original copyright and MIT license notice are preserved in [`LICENSE`](./LICENSE).
+## Copyright
 
-## License
+Copyright © 2026 Sepehr Bayat. All rights reserved.
 
-MIT. See [`LICENSE`](./LICENSE).
+This is proprietary work. No permission is granted to copy, modify, publish, distribute, sublicense, or sell it without prior written permission from Sepehr Bayat.
